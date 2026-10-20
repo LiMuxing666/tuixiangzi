@@ -1,0 +1,1243 @@
+; 1
+par 3 2
+sol rRR
+#######
+#@ $ .#
+#######
+
+; 2
+par 3 2
+sol rDD
+######
+#@   #
+# $# #
+#  # #
+##.  #
+ #####
+
+; 3
+par 10 3
+sol UdDurrddlL
+ #####
+ #.  #
+##$# #
+# @  #
+# $# #
+#.   #
+######
+
+; 4
+par 8 2
+sol ruulDrdL
+ ####
+ #  ###
+ #    #
+##*#$ #
+#  .@ #
+#     #
+#  ####
+####
+
+; 5
+par 16 3
+sol rddLruulDuullddR
+######
+#    #
+# #@ #
+# $* #
+# .* #
+#    #
+######
+
+; 6
+par 17 5
+sol dllUdlUluurDRddlU
+####
+#  ####
+# . . #
+# $$#@#
+##    #
+ ######
+
+; 7
+par 35 9
+sol ullDDlddrruLuuurrdLulDDDullddrRuulD
+  #####
+  #   #
+###$$@#
+#   ###
+#     #
+# . . #
+#######
+
+; 8
+par 33 8
+sol dlUrrrdLullddrUluRuulDrddrruLdlUU
+####
+# .#
+#  ###
+#*@  #
+#  $ #
+#  ###
+####
+
+; 9
+par 41 13
+sol ruuLLLulDrrrrddlUruLLLddllluurRDrdLuuurDD
+  ####
+###  ####
+#     $ #
+# #  #$ #
+# . .#@ #
+#########
+
+; 10
+par 23 7
+sol ullDLdRuurrdLLrrddlUruL
+########
+#      #
+# .**$@#
+#      #
+#####  #
+    ####
+
+; 11
+par 47 15
+sol drrruulDLdlUUUluRRdlddrrrdLLdlUUUUruLdddrruruuL
+#####
+#   ###
+#. .  #
+#   # #
+## #  #
+ #@$$ #
+ #    #
+ #  ###
+ ####
+
+; 12
+par 41 20
+sol urrDDDlddrUUUUruLLLdRurDDDlddrUUUUlllluRR
+########
+#   .. #
+#  @$$ #
+##### ##
+   #  #
+   #  #
+   #  #
+   ####
+
+; 13
+par 56 10
+sol ruulluRdrdddllUUdrruululldRddrruuruLLrdddlluuRurDDullluR
+#######
+#  *  #
+#     #
+## # ##
+ #$@.#
+ #   #
+ #####
+
+; 14
+par 30 10
+sol urrDulldRdRluurDrDDlUruLdlUruL
+#####
+#.  ##
+#@$$ #
+##   #
+ ##  #
+  ##.#
+   ###
+
+; 15
+par 50 16
+sol urDDDrrruulLLLrddlddrUUUdrrruullulldRRRlulllldRRRR
+#######
+#     ###
+#  @$$..#
+#### ## #
+  #     #
+  #  ####
+  #  #
+  ####
+
+; 16
+par 37 14
+sol DrdddllUUddrruuLuLLLdlluRRRRDrrddllUU
+     ###
+######@##
+#    .* #
+#   #   #
+#####$# #
+    #   #
+    #####
+
+; 17
+par 51 10
+sol uulllldddrrUlluurrrrddLLLrrruullDurrddlLdllURRuullD
+#######
+#     #
+# # # #
+#. $*@#
+#   ###
+#####
+
+; 18
+par 49 11
+sol uululldRdRluurDrDDrddlluRuuulldRurDDrrrddllUdlluR
+#####
+#   ##
+# $  #
+## $ ####
+ ###@.  #
+  #  .# #
+  #     #
+  #######
+
+; 19
+par 25 9
+sol drDullDRddrruLUddlUUddlUU
+#####
+# @ #
+#...#
+#$$$##
+#    #
+#    #
+######
+
+; 20
+par 25 8
+sol LuRllDrdRdrruuLLdlUddlluR
+ #######
+ #     #
+ # .$. #
+## $@$ #
+#  .$. #
+#      #
+########
+
+; 21
+par 78 16
+sol ulllddddrrrruLdllluuuurrrdDDrdLLLLullddrUluRdrrrruulDrdLLLUllddrUrrruuruullldD
+  ######
+  #    #
+  # ##@##
+### # $ #
+# ..# $ #
+#       #
+#  ######
+####
+
+; 22
+par 71 13
+sol ruuuulllddrRDrUUdllluuurrrrdLdddddlUUruuuLulldddrRdrUUdllluuurrdLurrrdL
+#######
+#     #
+#. .  #
+# ## ##
+#  $ #
+###$ #
+  #@ #
+  #  #
+  ####
+
+; 23
+par 26 6
+sol lluRuUluurrDrrddlUdLrrddlU
+#######
+#     #
+# .$. #
+# $.$ #
+# .$. #
+# $.$ #
+#  @  #
+#######
+
+; 24
+par 89 21
+sol rddrruuLLddrrrruuuuurrdddLruuullddDLLddrrUUUUddddlllluuRRRlddrruUUdddlllllluuRRRRRlddrruU
+      #####
+      #.  #
+      #.# #
+#######.# #
+# @ $ $ $ #
+# # # # ###
+#       #
+#########
+
+; 25
+par 48 19
+sol rUULLLLdlUUdrrrrrddlUruLLLLulDrrrrrUUlluurDRlldR
+   ####
+####  ###
+#  # $ .#
+#. #  . #
+#  ### ##
+#    $ #
+#. ##$$#
+#####@ #
+    ####
+
+; 26
+par 107 29
+sol ulldllllulDulldRRRRRRdrrruullDurrddlLLLulllllddrUluRRRRRRdrrruullDurrddlLLulllllddrUluRRRRRdrrruullDurrddlL
+###### #####
+#    ###   #
+# $$     #@#
+# $ #...   #
+#   ########
+#####
+
+; 27
+par 42 16
+sol ddLruulDLDurrdLLDlluuRRlDDDRuurruulDrdLulD
+   ####
+#### @#
+#  $$ #
+#   $ #
+#  .###
+##  .#
+ #.  #
+ #####
+
+; 28
+par 52 23
+sol rDlDDRddlUUUUruLddddrrruLLdlUUUlUdrrDDrdLdlUUUruLruL
+####
+#. ##
+#.@ #
+#. $#
+##$ ###
+ # $  #
+ #    #
+ #  ###
+ ####
+
+; 29
+par 97 32
+sol llDDDDDDldddrruuLuuuuuuurrdLulDDDDDDlllddrrUdlluurRdddrruuLUUUUUUluRdddddddrddlluUdlluurRdrUUUUUU
+  ######
+  # ..@#
+  # $$ #
+  ## ###
+   # #
+   # #
+#### #
+#    ##
+# #   #
+#   # #
+###   #
+  #####
+
+; 30
+par 54 19
+sol llldDlddrURlluUruulDDrDrdRdrURurrdLLLdlllUUUluRRldddlU
+########
+#      #
+#   .@ #
+#* #######
+# $ #.   #
+#  $. $  #
+#     ####
+#######
+
+; 31
+par 53 20
+sol ddrrrrUUUruullDRddddlllluuRRRUrDDrdLLLLUluRRRuruulldR
+  ######
+  #    #
+  # $..#
+####   #
+#@$  .##
+# $##$ #
+#.     #
+########
+
+; 32
+par 61 19
+sol lUUUUluRRurrDRRdddlllUdrrruuullDDldRRluuuulldRurDrrddDDullulU
+  ######
+###    ###
+#   .$$ .#
+#  # .#  #
+## #$ #  #
+ # #    ##
+ #$ #    #
+ # @## . #
+ #########
+
+; 33
+par 62 19
+sol uuluulldRurDDDrdLuuuulllldddRRRDDurruulDrdLulllluuRDldRRRDrddL
+#######
+#     #
+# $.$ ##
+# $##  #
+# $  . #
+####  @#
+  # . ##
+  #.  #
+  #####
+
+; 34
+par 43 18
+sol UlulDlddrUluRurRRRuLrrrdLLLLddLLuRluRRlddrU
+   #######
+ ###.$   #
+##  ..   #
+# $ $#####
+#. $@#
+#  ###
+#  #
+####
+
+; 35
+par 49 19
+sol lLdLLLdlluRRlluurDlddrruLrRuRRdLLLddrUluRdlllUUdR
+#### #####
+#. ###   #
+# $#  $.@#
+#  . * ###
+#   $###
+###  #
+  ####
+
+; 36
+par 58 22
+sol uuuRRRRlllldddDrddlUUUUrDRRurDDuuruUruLdlllllDDrdDlddrUUlU
+  #######
+###  .  #
+# $     #
+# ####  #
+#. #    #
+#@*$  ###
+#$ ## ###
+#  ##.  #
+#  ##   #
+#########
+
+; 37
+par 70 21
+sol dLUddlluRdrruulDrdLulDururuulDDrddlluRdrUUddllllllUUrDldRuuuulDDDrdRRR
+#########
+#   ##  #
+#   ## .#
+#  ###$@#
+#$$#  $ #
+#.    . #
+#### .###
+   ####
+
+; 38
+par 57 19
+sol uuuRurrDulldlluRdrRurrdLLLLuRdrrrddLUruLLLulDDuulDrrrruLL
+########
+# *    #
+#  $ $ #
+#. ##  #
+# .#.$ #
+# @  ###
+######
+
+; 39
+par 41 18
+sol lURUdRllluRRRdRRuuullDDRdLLLrrrrUUdlluurR
+   ######
+  ##   .#
+###.$#  #
+#  $   ##
+#.$$   .#
+## @##  #
+ ########
+
+; 40
+par 75 21
+sol dddrUluuRRurrrddlUruLLrdddLLdlluuurrRurrddlUruLdllllddRUluRRRRurDldRldlLdlU
+  ######
+###..  ##
+#@$  $  #
+# .##  .#
+# $ $ ###
+#   ###
+#####
+
+; 41
+par 62 19
+sol rrurrDDDlddLrrddllUUUUUddlldRurrdrddlllUrUUUdlldRdrUUrurDuuulL
+  #####
+###   #
+#@.  $#
+#  .# #
+###.  #
+#     #
+#  $ .#
+##$$# #
+ #    #
+ ######
+
+; 42
+par 58 20
+sol DldldRRUluUrruullDDDDrUluuurrddLdddLullddrUluRdddrrUUUUlUR
+  #####
+  #   #
+  #.# #
+  #$@.#
+### $##
+#  .  #
+#  $ .#
+#  #$##
+##   #
+ #####
+
+; 43
+par 56 19
+sol UdRRluurDrDLdRuullldRuuulDDrrrddlUdrRdrUruulDrdLLLuuLdlU
+####
+#  ##
+# . #####
+#$ $ #  #
+#+$  #  #
+###.    #
+  ###  ##
+    #  #
+    ####
+
+; 44
+par 70 19
+sol ddrrULdlUdrrrruLLLdlluuurrrDullldddrruLUluRdddlUdrrrruLLLrrrrurrdLLLLL
+ ####
+##  ##
+#  . #####
+#.@# #   #
+#..$$$ $ #
+#      ###
+########
+
+; 45
+par 52 20
+sol ullLLULuurDDullldRRllddrrURRRRllllUluurrdDuLddRRRurD
+ #####
+##   #
+# .  #####
+#  $$    #
+# #  $  .#
+#   ###.@#
+#  ## ####
+####
+
+; 46
+par 69 24
+sol LLLLdlUUdrrrrrUUlDrdLLLLulUluurrurrrDDDDuuuullddlLulDrddrddlUUUddrrrR
+   ######
+####    #
+#     #$##
+#  .  # .#
+# . ###  #
+###   #$$#
+  #    $+#
+  #  #####
+  #  #
+  ####
+
+; 47
+par 43 20
+sol rUUUdlUURRurDDDuuululDulDulldRRRlDRRluurDrD
+#######
+#     ##
+# $ $  ##
+###  .  #
+  #* #. #
+###  #  #
+#  #$#. #
+#  @ #  #
+#########
+
+; 48
+par 55 21
+sol rrDurrdLLrdddlluRUULulldRRuRRddlUrrUlLddddrUUUluRuRRdrU
+      ####
+    ### .#
+#####    #
+# @.  .  #
+#   $$ ###
+####  ##
+  # $  #
+  #    #
+  ######
+
+; 49
+par 66 26
+sol UUruulldRRurDldRdddldlUUUdddllUURurUruulldRRurDrDDDldllUUUUdrRurDD
+ ######
+ # .  ##
+ #     #
+###    #
+#. $#  #
+# $@# .#
+#$#$  .#
+#    ###
+######
+
+; 50
+par 74 25
+sol RurrddlUUdddrddlUUUUruLruLLLulldddRRRUUlLrrddllluUdddddrruLdlUUUrrrurrdLLL
+######
+#.  .###
+#      #
+#.##   #
+# *@$  #
+# ###  #
+# $ #  #
+#   #$ #
+#####  #
+    ####
+
+; 51
+par 61 23
+sol uulluuullDDRluurrdDDrruLLuurDDrdLLDldRullUUUluRRlddRDrruulDDD
+#######
+#   . #
+# $# $##
+## $ $ #
+ #     #
+ # . # #
+ ## ..@#
+  #    #
+  ######
+
+; 52
+par 65 23
+sol UluurDDrddllURuuuluurDDuurrrdLLullddrUluRRdldDDDurDDulldRRullUUUU
+#######
+#.  . #
+# $ $ #
+#  ####
+#  #####
+# $ #  #
+#$@ #  #
+#   . ##
+## .  #
+ ######
+
+; 53
+par 66 21
+sol rddldLUlldRlddrUURlluRRRRuullDurrdrrddlUruLdllLdlluRRRRUruLdrrddlU
+  ######
+  # +  ##
+### # . #
+#  $    #
+#  $.#  #
+# $######
+#  #
+####
+
+; 54
+par 47 18
+sol drUUUrUUlDuuulllddrURurDllluRdrrurDDDlUdDRuuuLL
+#######
+#  .  #
+# *$  #
+#  #  ##
+#### $ #
+   #  .#
+ ###.###
+ # @$#
+ #   #
+ #####
+
+; 55
+par 69 23
+sol dLLullDlddrDuluurDDuuurrdrruLdlLulDlddrUluRRRRuLdllddlddRRRRlllUUUluR
+ #######
+## . $@#
+# $. $.#
+#  #####
+#  #####
+# $##  #
+#     .#
+###  ###
+  ####
+
+; 56
+par 73 19
+sol UlldRuuurUUluRdddlddrUUUUluurrrdddddLLuuuluurDDDDlDuruuuurrdddddlLdLruulD
+ ######
+ #    #
+ #  . #
+ #  # #
+ ##$# #
+ #  # #
+##  $ #
+#..$###
+# $+#
+#####
+
+; 57
+par 58 26
+sol uLLLLddrURurrdLLLLuRluurDDRdrruLLLulDDDlluRdrUUdRRldllddrU
+  ####
+  #  #
+ ##.$####
+##.   $ #
+#   $$.@#
+#  . ####
+##  ##
+ #  #
+ ####
+
+; 58
+par 80 23
+sol dLLUUUllluurrrDurrdLdLLLdlUluurrrrDrdLdddrruLdlUUULLrrruulDulllldddrrurRlldlluRR
+#########
+#       #
+# .## $ #
+#   . .##
+#   # ###
+## ##$$@#
+ #  . $ #
+ ########
+
+; 59
+par 85 19
+sol uuuRuuurrdrddlUUruLLulDldddrRlldddrrUUddlluuuuuurrrddrddLUUUUruLdllldddrRlldddrruUrUL
+ #######
+ #  .  #
+ #     #
+ # .#  #
+ #  #* #
+## *   #
+#  # $ #
+#  #$###
+# @  #
+######
+
+; 60
+par 60 23
+sol ullLLdlUUluurDRDulldRdRRRllluurRurrdLLLDuLdlUdrddrRRRlulLdlU
+     ####
+######  #
+#. #    #
+#  $   ##
+# .$#####
+##  $ . #
+ #  $  +#
+ ########
+
+; 61
+par 48 23
+sol DDDDrddlUruRUrrdLLuUUllddRDDldRRRllulUUUUrrdDrdL
+#####
+#+*.#
+#$  #
+# # ###
+# $$  #
+# .$  #
+#  ####
+#    .#
+#     #
+#######
+
+; 62
+par 64 27
+sol lUUUUddddlluRdrUUUrUULDrdLdddrruLdlUUUruulDDLuruuurDDrdLdlDDrdLL
+  ####
+  #  #
+ ##  ##
+##.   #
+#  .$ #
+#.   ##
+### ###
+# $$$ #
+#.  @ #
+#######
+
+; 63
+par 52 29
+sol rdrdLLruulDLDDDDrdLLLLdlUUUruruRluRRRRllDRlDDDrdLLLL
+     #####
+  ####@  #
+  #  $$ .#
+### $  * #
+#.  # ####
+#   #  #
+# ###  #
+#.     #
+#    ###
+######
+
+; 64
+par 53 23
+sol drrUUUrUdlluRRRRdrUUlullDDlddddlluRdrUUURllDDuuuRRdRR
+  #######
+  #    .#
+ ##* #  #
+ #  $.  #
+ #     .#
+##$ #   #
+#@$$#####
+# . #
+#####
+
+; 65
+par 91 24
+sol uruuLLrruuullDDllddrURRluuurrddDDDrruLddLLurUUlluuurrdDDDDldRuuulllluRdrrruuulldDldRuuurrdL
+  #####
+  #   #
+###*$ #
+#   # #
+#   * ###
+#  ## $ #
+###     #
+  #.@ .##
+  ######
+
+; 66
+par 73 19
+sol dlLLDlluRRRurrddddlllUUddrruruuulldRurDDullLdddrrrruLuullldlluRuRDDDulldR
+ #######
+## $. @#
+#   $  #
+#  $## ##
+# $.#.  #
+###.    #
+  #######
+
+; 67
+par 56 22
+sol rDDLruulDDDlluRdlddrrUrULLulDrrrrrdLLdlUruLLrrULuurDDldR
+########
+#  ##@ #
+#  ##$$#
+# # .$ ###
+# #.   . #
+#  .#  $ #
+##     ###
+ #######
+
+; 68
+par 73 22
+sol lDDrddLLLLLuurDlddrruLdlUUdrrrrruuluurDullllDDDldRdrrurUUUrDuuLddddldlluR
+  #######
+  #  . @#
+ ##$ #$$#
+ #. ##  #
+## $#  .#
+#.   .$ #
+#     ###
+#######
+
+; 69
+par 71 29
+sol urrrrrdLdrddLUUUruLLLrrddddLddrUUUUULLLLrrrrddddllluRRdrUUUruLLrruLLdLL
+ ########
+## ..   #
+#.+   $ #
+#    #  #
+######$ #
+  #   $ #
+  #   $##
+  ###  #
+    ####
+
+; 70
+par 58 21
+sol RRuulDrdLuuruullldddRRdrUUUruLLrdrrdrdLrddlULrUUruLddLdLUU
+#######
+# .   ###
+# ##..  #
+# #  #  #
+# $$  $ #
+##+*  $ #
+ #####  #
+     ####
+
+; 71
+par 100 39
+sol lddrUdrruLLdlUUUruLLLulDDDldRuuurrrdrrDLdlUUruLLLulDDDlddrrULdlUruuurrrddddrrruLLdlUUUruLLLulDDDDldR
+ ####
+ #  ####
+ #     ##
+## ##   #
+#. .# @$##
+#   # $$ #
+#  .#    #
+##########
+
+; 72
+par 58 26
+sol RRdRdrruLuLDlLulldRRRRDDrdLLulldlluRRRRdLLrrrruLuuuLLrrrDD
+ ########
+ # +$   ##
+ #  $ $  #
+######   #
+# $  . . #
+# .     ##
+#########
+
+; 73
+par 66 25
+sol llldlDRuuulDrddlldRdrUUUUluRRRdddLruulllDDldRdrrULUlldRurDuUluRRRR
+ ########
+ #    . #
+ #$   @.#
+##  #  ##
+# $$.  #
+#   $###
+## . #
+ #####
+
+; 74
+par 72 21
+sol uluurDRRddrrUruulDrdLdlluuRllllddrUluRRRddrruLrruulDLLDrdrUlulLLuluuuuRR
+#######
+# $ . #
+#  #  #
+# #####
+# ## ####
+#  ###  #
+#.$$  . #
+#  #  $ #
+# @#.  ##
+########
+
+; 75
+par 94 18
+sol DrrruuulllDurrrdddllllluuRDldRRRdrruuuulldLDuurrrddddlluRlLuuurrrddDlllulldRRRRdRlulluuurrrddD
+  #######
+###     #
+# *$ #  #
+# $@## ##
+#  $    #
+###.  ..#
+  #######
+
+; 76
+par 56 24
+sol drddLUdLdlUUUluuurrdLDDDRddlUUUUUddddrrruLruulDDLdRllUUU
+#####
+# . #
+#.* ###
+#  #@ #
+#  #  #
+## $$ #
+ #  $.#
+ #  ###
+ ####
+
+; 77
+par 85 20
+sol LDlddddrrrruuuulLLrrddrddlllluurUdlddrUUluluuRDDDrddlUdrrrruuuullLDlluurDrruLddDDldRR
+######
+# .$@###
+#  $$  #
+# . #  #
+##. #  #
+ # $## #
+ #   . #
+ #######
+
+; 78
+par 79 27
+sol DDDDuuulluuurrDDDDDlddRRuruuuuLrddddlLdlUUruulluuurrrDlDDDDDrruuuuLulDDlluRdrUU
+######
+#  . #
+# #$$##
+# $@$ ##
+#  $#  #
+# ..#  #
+##  #  #
+ #     #
+ # . .##
+ ######
+
+; 79
+par 58 23
+sol luurrdrRluurDrDDrdLdLLuRdrUUULLrrdddllLdllURRllUUUUddrDldR
+#######
+#.    ##
+#    $.#
+# #. $ ##
+# @###  #
+# $#    #
+#$ ..$ ##
+#   ####
+#####
+
+; 80
+par 58 21
+sol ulDDDuurrrddLLdddrUdlllUURlUUrDrDDrUlulldRuuurrrddLLDuLulD
+ #####
+##   ##
+#.$@  #
+#  ## #
+#   $ #
+#.   ##
+#$#.$#
+#  . #
+######
+
+; 81
+par 70 30
+sol rUUUUUdddrruLdlUluurrDDrdLulUruLLuurDDrdLdlUULLLdRRurUruLLLrrddrddlUUU
+########
+# .  . #
+# ###  ##
+#.      #
+## $   $##
+ ####  $ #
+    ##.  #
+    #*$###
+    #@ #
+    ####
+
+; 82
+par 62 31
+sol lDDRDuluurDDlDRRRuLrrDDDrdLulDrdLullulUUUUrDldRRlDDldRRRdrUluR
+####
+#.@#
+#$$####
+# $   #
+# $ . #
+#  ## ###
+#  #  . #
+#       #
+###.  ###
+  #####
+
+; 83
+par 71 25
+sol LrDLuLLLLLdrddrrrrUUruLdddrUUluLLLuluuurrrdLulldddllDrdrUUdrrdRurDDrdLL
+  ######
+  #    #
+  # .$ #
+###.#  #
+#    #####
+#      $+#
+#.  #  $$#
+###  ##$ #
+  #  .   #
+  ########
+
+; 84
+par 80 28
+sol dRRRRRluurUruuulldRurDDDldlddllluuuuluuRDDDDDldRuuuuuuRRRdrrddrdLLuUruuLLLrdRurD
+#########
+# $.    #
+# $## $ #
+#  ### .##
+#   ##$  #
+#   #.   #
+#@ ## ## #
+# $.   . #
+##########
+
+; 85
+par 70 25
+sol dRRRDLLrrrrdddlluUddrruuulLuuruulDDDDrUUUdddrdddlluUULulllddrURRuRDrUU
+    #####
+    # . #
+#####$. #
+# @ #  ##
+# .$   ##
+#   $$  #
+#  ##.# #
+###   # #
+  #     #
+  #######
+
+; 86
+par 86 36
+sol luuuuullldRRurDDDDDuuuuulllllDRRRRurDDDDuuulllllDDrUdrdddlluUUUURRRRurDDDldddRRuLUluRR
+########
+#.     #
+#$$ $  ###
+# $###   #
+#   #   .#
+# # #  ###
+# # #. @ #
+#   #   .#
+##########
+
+; 87
+par 56 23
+sol UluuRRRlllddrUluRRurrDLdddddllURRlllUUrDldRRdrUdrUlURuUU
+  #####
+###  .#
+# $.  #
+#. #  ##
+# $#.  #
+#$@#  .#
+# $$  ##
+##    #
+ ######
+
+; 88
+par 105 26
+sol uulluuruuurRDrruLLdllddrrUdlluurRddlllluRdrrruullDurrurrdLLddlLLuruuRRdLulDDurrrruLLLdrddlLulDDldRRluuulD
+  #######
+  #. $  #
+###  $  #
+# $ # *##
+#     ##
+#. ####
+#   . #
+###   #
+  # @##
+  ####
+
+; 89
+par 75 27
+sol dRlddrURRUrrdLLLLURRllluurDldRddlUUruLddrrruLdlluurDldRurrdrruLLLLuullldRRD
+######
+#    ####
+#  @.#. ##
+### $ $  #
+  #.$*   #
+  #  #####
+  ####
+
+; 90
+par 73 26
+sol urrUUUURRurrddlDuruulDlllddrUdlddrUluuuRRuullDDDurrurrdLLLdlUUddDDrUddLLL
+   ######
+   #.   ##
+   # #   #
+#### $   #
+#  # *#. #
+#  #  #$ #
+# ##$$#. #
+#.    ####
+# @####
+####
+
+; 91
+par 70 26
+sol LrdLuLLLdlUdlluRRRuulDrddlluRdrURRDrddLUruruLLLLUdLdrddRluuurrrddlUruL
+  ####
+  # .#
+###  #####
+# *  . $@#
+#    # $ #
+#### #  ##
+   #  * #
+   ######
+
+; 92
+par 76 30
+sol RDuluurDRRurrdLLLLLddrUluRRRurrdLLdLLuRdrUdlldlddrUUlURurrdLululDDDrUluulldR
+##########
+#    #.  #
+#  .*$   #
+###@$  ###
+  # $###
+  #. #
+  #  #
+  ####
+
+; 93
+par 91 34
+sol UdrruLuLLLuullDDDuurrdLrrrruulDrdLLLulllddrUluRdRRRRurDDDlUruLLLuullddRRuulDrdRRdrUddrddlUU
+ ########
+##   #  #
+# $  #$.#
+#  .    ##
+#  ###$* #
+# .# #@  #
+#### ##  #
+      #  #
+      ####
+
+; 94
+par 81 32
+sol rRlllluurrrrDrrddLLLLLrrrrruulDLLLLdLUrrrrrrdLrddlUULLrrruLLLdLLulUluRRRllddlDDDD
+########
+#    . ###
+#  ###$  #
+#   + $  #
+# .    $ #
+#  ####$ #
+# ##  #  #
+#  #  ####
+#. #
+####
+
+; 95
+par 63 33
+sol ulDDDDDLddrUUUUURRdLulDDlddrUrULuuruulDDDDrdLuuurrdLulDDLLrDLLU
+    ####
+    #  #
+    #$@###
+##### $ .#
+# .## $  #
+#     $###
+#.  $. #
+#  #. ##
+####  #
+   ####
+
+; 96
+par 93 29
+sol urrUdlluRuurRdLulDrrrruLLdllDlddrUrUdlluRuRRurDlllddrUluuRRdLulDDrdLuurrrrddlUruLruLdLLulDDlD
+ #######
+ #  *  #
+##     #
+# $$#  #
+# . #  #
+#+ ### #
+###### #
+  #  # #
+  #    #
+  ######
+
+; 97
+par 97 38
+sol rdLLLulDDlDDrdddrrrruLdllluurDldRuululuuruulDDrDDDrddlUUUUUluRddddddrRRuLLdlUUUUdlUrUUluRdRRRRurD
+#########
+#  .#@  #
+#$   $  #
+#. # # .#
+#$ #  ###
+#  #  #
+#.  ####
+## $ $ #
+ #    .#
+ #######
+
+; 98
+par 80 28
+sol rDulldRRlDDrUdllddrrULuurDllDrdLuuruuurDurrdLLulDDDrUdllddrUdrUULuuurrdLulDDDrUU
+  #######
+  # @.  #
+  # $$  #
+  ##$ ###
+###.  #
+#   .$#
+# .   #
+#######
+
+; 99
+par 79 30
+sol UluRRlddrURRdrUUrUUlUdrddlUUlldDLdRRdrUUruuUULDrdddldlluuurRDrUllldddllluRRdrUU
+    #####
+    #  .#
+    #.  #
+   ###$.#
+   #.   #
+#### # $#
+#    #. #
+# $$$  ##
+##@ #  #
+ #######
+
+; 100
+par 88 29
+sol RRdRDrdLuuUruulDDrDLddLLullluuRRRRllllddrdRRRdrruUluUruullllDurrrrddlUruLddddrUdddlUUUrU
+  #######
+  #  .  #
+###$## .#
+# $+$ . #
+# ###.$ #
+#    #$ #
+##      #
+ #  #   #
+ ########
+
